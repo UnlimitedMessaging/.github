@@ -13,6 +13,29 @@ WhatsApp and email in one API - send messages, receive webhooks, build multichan
 - AI agents that send and receive messages
 - Delivery tracking, appointment reminders, transactional alerts
 
+---
+
+### Pricing
+
+| | Free | Medium — €19/mo | Max — €29/mo |
+|---|---|---|---|
+| Unlimited messages | ✓ | ✓ | ✓ |
+| Email from your own mailbox | ✓ | ✓ | ✓ |
+| Email + WhatsApp in one API request | ✓ | ✓ | ✓ |
+| Web App + API access | ✓ | ✓ | ✓ |
+| Webhook message reception | — | ✓ | ✓ |
+| WhatsApp number redirect | — | ✓ | ✓ |
+| Media & voice messages | — | ✓ | ✓ |
+| Templating & dynamic variables | — | — | ✓ |
+| WhatsApp product sheets | — | — | ✓ |
+| Advanced analytics + Excel export | — | — | ✓ |
+| Send to unlimited recipients | — | — | ✓ |
+| Footer badge on messages | on Free only | — | — |
+
+No per-message fees. Flat monthly rate. [Start free, no credit card.](https://app.unlimitedmessaging.app)
+
+---
+
 ### Stack
 
 Go · Node.js · TypeScript · PostgreSQL · Next.js
