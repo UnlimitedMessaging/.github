@@ -2,6 +2,8 @@
 
 WhatsApp and email in one API - send messages, receive webhooks, build multichannel products.
 
+Connect your own WhatsApp number and mailbox, then call `POST /message` to reach your users on both channels in a single request. Inbound messages arrive as webhooks. No per-message fees, flat monthly price, free plan included.
+
 **[unlimitedmessaging.app](https://unlimitedmessaging.app)** · [Docs](https://docs.unlimitedmessaging.app) · [Discord](https://discord.gg/danrEJV5Xx)
 
 ---
