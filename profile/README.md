@@ -19,14 +19,17 @@ WhatsApp and email in one API — send messages, receive webhooks, build multich
 
 No per-message fees. Flat monthly rate. [Start free, no credit card.](https://app.unlimitedmessaging.app)
 
-**Free**
-Unlimited messages, email from your own mailbox, WhatsApp + email in one API request, web app + API access. Messages carry a small footer badge.
-
-**Medium — €19/mo**
-Everything in Free, no badge. Webhook message reception, WhatsApp number redirect, media and voice messages.
-
-**Max — €29/mo**
-Everything in Medium. Templating and dynamic variables, WhatsApp product sheets, advanced analytics with Excel export, unlimited recipients.
+| Feature | Free | Medium €19/mo | Max €29/mo |
+| :--- | :---: | :---: | :---: |
+| Unlimited messages | ✓ | ✓ | ✓ |
+| WhatsApp + email in one request | ✓ | ✓ | ✓ |
+| Email from your own mailbox | ✓ | ✓ | ✓ |
+| Webhook message reception | | ✓ | ✓ |
+| WhatsApp redirect + media messages | | ✓ | ✓ |
+| Templating & dynamic variables | | | ✓ |
+| Advanced analytics + Excel export | | | ✓ |
+| Unlimited recipients | | | ✓ |
+| Footer badge on messages | on Free only | | |
 
 ---
 
