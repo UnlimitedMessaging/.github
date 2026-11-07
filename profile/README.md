@@ -1,6 +1,6 @@
 # Unlimited Messaging
 
-WhatsApp and email in one API - send messages, receive webhooks, build multichannel products without dealing with Meta.
+WhatsApp and email in one API - send messages, receive webhooks, build multichannel products.
 
 **[unlimitedmessaging.app](https://unlimitedmessaging.app)** · [Docs](https://docs.unlimitedmessaging.app) · [Discord](https://discord.gg/danrEJV5Xx)
 
